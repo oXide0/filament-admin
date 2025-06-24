@@ -30,7 +30,11 @@
    ```
 
 5. Admin credentials:
-   ```
+    ```
+   php artisan db:seed
+   ```   
+   Credentials:
+    ```
    test@example.com
    password
    ```
